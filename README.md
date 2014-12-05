@@ -4,7 +4,7 @@ unigener is an amazing product which causes a transcriptome assembly to open its
 
 Running that exciting command will net you not one but *two* fascinating output files -- c20385_g1.unigenes.fasta and c20385_g1.unigenes.pep.
 
-As you might expect, the former is a fasta of all isoforms of unigene c20385_g1, and the latter is the amino acid sequences corresponding to the same.
+As you might expect, the former is a fasta of all isoforms of unigene c20385_g1, and the latter is the amino acid sequences corresponding to the same. (In this case, that means transcripts c20385_g1_i1 and c20385_g1_i3.)
 
 But wait there's more. You can provied unigener with a list of unigenes and get a bigger, better fasta:
 
