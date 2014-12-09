@@ -7,6 +7,7 @@ from src.sequtil import translate
 def main():
     if len(sys.argv) < 4:
         print("Usage: unigener.py <input_fasta> <output_prefix> <unigene1> <unigene2> ...")
+        exit()
 
     input_fasta_path = sys.argv[1]
     output_prefix = sys.argv[2]
